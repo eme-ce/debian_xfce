@@ -6,4 +6,5 @@ rm -r ~/Templates
 rm -r ~/Videos
 rm -r ~/Music
 rm -r ~/Desktop
+
 xdg-user-dirs-update
